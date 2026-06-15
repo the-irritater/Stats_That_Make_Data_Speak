@@ -38,11 +38,11 @@ This case study analyzes tipping patterns in restaurant transactions using the c
 ---
 
 ## 4. How to Run
-To run the python script and recreate the plots, execute:
+From the project root, run the Python script to recreate the statistical output and diagnostic plot:
 ```bash
-python3 analysis.py
+python3 applied/case-studies/restaurant-tipping-behavior/analysis.py
 ```
 To run the Jupyter Notebook:
 ```bash
-jupyter notebook analysis.ipynb
+jupyter notebook applied/case-studies/restaurant-tipping-behavior/analysis.ipynb
 ```

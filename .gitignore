@@ -40,8 +40,5 @@ htmlcov/
 .isort_cache
 
 # Internal Strategy, Marketing, and LinkedIn Calendar files (ignored on GitHub)
-content-system/
-BRANDING.md
-HOW_TO_USE_AND_POST.md
-MONETIZATION.md
+docs/content-system/
 

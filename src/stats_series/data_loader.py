@@ -60,6 +60,15 @@ class DataLoader:
         for col_name, col_meta in expected_cols.items():
             expected_type = col_meta["type"]
 
+            # 2. Check for duplicates in primary keys
+            if col_meta.get("primary_key") is True:
+                if df[col_name].duplicated().any():
+                    duplicated_keys = df[col_name][df[col_name].duplicated()].unique().tolist()
+                    raise ValueError(
+                        f"Validation failed for dataset '{name}': column '{col_name}' "
+                        f"contains duplicate primary keys: {duplicated_keys}"
+                    )
+
             if expected_type == "category" and "options" in col_meta:
                 invalid_entries = [
                     val for val in df[col_name].unique() if val not in col_meta["options"] and pd.notna(val)

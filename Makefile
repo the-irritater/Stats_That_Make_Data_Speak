@@ -17,7 +17,7 @@ setup:
 
 
 test:
-	$(BIN)/pytest --cov=stats_series --cov-report=term-missing tests/
+	$(BIN)/pytest --cov=stats_series --cov-fail-under=85 --cov-report=term-missing tests/
 
 lint:
 	$(BIN)/flake8 src/ tests/ dashboard/
@@ -33,6 +33,11 @@ run-dashboard:
 
 generate-data:
 	$(BIN)/python -m stats_series.precompute_aggregations
+
+run-notebooks:
+	$(BIN)/jupyter nbconvert --to notebook --execute applied/notebooks/*.ipynb --inplace
+	$(BIN)/jupyter nbconvert --to notebook --execute applied/case-studies/**/*.ipynb --inplace
+	$(BIN)/jupyter nbconvert --to notebook --execute applied/signature-project/notebooks/*.ipynb --inplace
 
 
 clean:
