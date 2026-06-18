@@ -30,7 +30,7 @@
 
 ### 🚀 Try the Live Dashboard
 Explore all statistical studies, regression diagnostics, relative risk engines, and tipping tests interactively:
-👉 **[StatSphere Analytics Hub (Streamlit Cloud)](https://statsphere-hub.streamlit.app)** *(Instructions for local deployment are listed below)*
+👉 **[StatSphere Analytics Hub (Streamlit Cloud)](https://statsthatmakedataspeak.streamlit.app/)** *(Instructions for local deployment are listed below)*
 
 ---
 
