@@ -80,14 +80,14 @@ Always keep **statistics as the hero**. Every algorithm, dashboard, and SQL quer
 You have built the foundations of a professional data analyst. If you choose to continue the journey to Day 365:
 
 ```text
-Days 121–150: Bayesian Statistics & Advanced Inference (Inference under priors)
-Days 151–180: Multivariate Statistics (PCA, Factor Analysis, SEM)
-Days 181–210: Statistical Learning (Regularization, Ensembles, Explainability)
-Days 211–240: Advanced Machine Learning (XGBoost, SHAP, Optuna, Calibration)
-Days 241–270: Production Analytics (MLOps basics, monitoring, continuous experimentation)
-Days 271–300: Research Statistics (Meta-analysis, Survey Design, Missing Data)
-Days 301–330: Optimization & Decision Science (Linear Programming, Simulation)
-Days 331–365: Capstone Projects & Portfolio Showcase (Industry Case Studies)
+Days 121–130: Module 15 — Bayesian Statistics Fundamentals
+Days 131–140: Module 16 — Bayesian A/B Testing & Decision Making
+Days 141–150: Module 17 — Multivariate Statistics & Dimensionality
+Days 151–160: Module 18 — Structural Equation Modeling (SEM)
+Days 161–170: Module 19 — Statistical Learning for Machine Learning
+Days 171–180: Module 20 — Explainable Machine Learning
+Days 181–240: Advanced Inference, Experimental Design at Scale, and Simulation
+Days 241–365: Research, Optimization, MLOps, and Capstones
 ```
 
 ---
@@ -100,4 +100,4 @@ Days 331–365: Capstone Projects & Portfolio Showcase (Industry Case Studies)
 
 ---
 
-[← Day 119: Complete Business Case Study](day-119-business-case-study.md) · [Back to Module 14](README.md) · [Back to Main](../../README.md)
+[← Day 119: Complete Business Case Study](day-119-business-case-study.md) · [Next: Day 121 – Frequentist vs. Bayesian Thinking →](../15-bayesian-fundamentals/day-121-frequentist-vs-bayesian.md)

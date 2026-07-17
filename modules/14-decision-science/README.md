@@ -39,4 +39,4 @@ You can write queries, build regression lines, and run forecasting models. But i
 
 ---
 
-[← Module 13: Time Series & Forecasting](../13-forecasting/) · [Back to Main](../../README.md)
+[← Module 13: Time Series & Forecasting](../13-forecasting/) · [Next: Module 15 – Bayesian Statistics Fundamentals →](../15-bayesian-fundamentals/)

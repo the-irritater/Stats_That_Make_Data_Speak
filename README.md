@@ -212,6 +212,36 @@ Complete analyses that show the full pipeline: question → data → analysis �
 
 ---
 
+## 🏆 Career Milestones & Capstones
+
+The curriculum is structured into milestone phases that map to a professional analytics career journey. Each phase ends with a Capstone Challenge to demonstrate your competence.
+
+### Phase 1: Become a Professional Data Analyst (Days 1–120)
+
+- **Days 1–30: The Statistical Explorer**
+  - **Milestone:** Can calculate descriptive statistics, design probability trees, and perform basic statistical modeling.
+  - **Capstone Challenge 1:** Analyze a public dataset using descriptive statistics, distributions, and probability rules.
+- **Days 31–60: The Data Analyst**
+  - **Milestone:** Can clean messy datasets, spot outlier anomalies, and evaluate statistical assumptions (normality, variance homogeneity).
+  - **Capstone Challenge 2:** Perform full EDA, clean a raw database, and run hypothesis tests on user cohorts.
+- **Days 61–90: The Predictive Modeler**
+  - **Milestone:** Can run t-tests/ANOVA group comparisons, build predictive regressions, detect multicollinearity, and train standard ML models.
+  - **Capstone Challenge 3:** Build a predictive regression model and a binary classification model on holdout datasets with diagnostics.
+- **Days 91–120: The Decision Scientist**
+  - **Milestone:** Can design controlled experiments (A/B testing) with correct MDE/sample sizes, decompose time-series forecasts, and present cohort/funnel metrics to executives.
+  - **Capstone Challenge 4:** Design and analyze an A/B test, forecast future demand, and present a structured executive proposal.
+
+### Phase 2: Become an Advanced Statistician & ML Practitioner (Days 121–240)
+
+- **Days 121–150: The Advanced Statistician**
+  - **Milestone:** Can model probability via Bayesian updating, run Bayesian A/B tests, and reduce high-dimensional datasets using PCA/Factor Analysis/CCA.
+  - **Capstone Challenge 5:** Apply Bayesian parameter updating and PCA dimensionality reduction to isolate drivers in a high-dimensional customer dataset.
+- **Days 151–180: The Machine Learning Practitioner**
+  - **Milestone:** Can model complex structural relationships via SEM, compile explainable ensembles (XGBoost, SHAP), and monitor drift.
+  - **Capstone Challenge 6:** Build a structural path model and an explainable ML model (using SHAP) to evaluate a complex operational product.
+
+---
+
 ## Quick Start & Usage Guide
 
 ### 1. Environment & Dependency Setup
