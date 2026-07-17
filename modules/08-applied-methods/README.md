@@ -51,4 +51,4 @@ This module bridges theory and practice. It covers three key areas:
 
 ---
 
-[← Module 7: Data Foundations](../07-data-foundations/) · [Back to Main](../../README.md)
+[← Module 7: Data Foundations](../07-data-foundations/) · [Next: Module 9 – Decision Analysis →](../09-decision-analysis/)

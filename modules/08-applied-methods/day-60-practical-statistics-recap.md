@@ -45,10 +45,10 @@
 
 ## What's Next
 
-**Statistics for Machine Learning and Business Analytics** — applying these concepts to prediction, classification, and real business problems.
+**Statistical Analysis for Decision Making** — using everything you've learned to compare groups, test hypotheses, and make evidence-based business decisions. Then onward to predictive statistics and machine learning.
 
 > Because data alone does not speak. Statistics makes it speak.
 
 ---
 
-[← Day 59: Residuals in Regression](day-59-residuals-in-regression.md) · [Back to Module 8](README.md)
+[← Day 59: Residuals in Regression](day-59-residuals-in-regression.md) · [Next: Day 61 – Why Compare Groups? →](../09-decision-analysis/day-61-why-compare-groups.md)
