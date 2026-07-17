@@ -162,9 +162,12 @@ The concepts behind every data decision. Each module = 5–10 days of focused le
 | 6 | [**Modeling**](modules/06-modeling/) — Regression, correlation, ANOVA | Day 26–30 | Complete |
 | 7 | [**Data Foundations**](modules/07-data-foundations/) — Datasets, data types, cleaning, EDA | Day 31–40 | Complete |
 | 8 | [**Applied Methods**](modules/08-applied-methods/) — Visualization, bias, assumptions, diagnostics | Day 41–60 | Complete |
-| 9 | [**Decision Analysis**](modules/09-decision-analysis/) — t-tests, ANOVA, Chi-Square, effect size, power | Day 61–70 | In Progress |
-| 10 | [**Predictive Statistics**](modules/10-predictive-stats/) — Multiple regression, dummy variables, regularization, logistic regression | Day 71–80 | In Progress |
-| 11 | [**Statistics for ML**](modules/11-stats-for-ml/) — Train/test, cross-validation, decision trees, random forests, evaluation | Day 81–90 | In Progress |
+| 9 | [**Decision Analysis**](modules/09-decision-analysis/) — t-tests, ANOVA, Chi-Square, effect size, power | Day 61–70 | Complete |
+| 10 | [**Predictive Statistics**](modules/10-predictive-stats/) — Multiple regression, dummy variables, regularization, logistic regression | Day 71–80 | Complete |
+| 11 | [**Statistics for ML**](modules/11-stats-for-ml/) — Train/test, cross-validation, decision trees, random forests, evaluation | Day 81–90 | Complete |
+| 12 | [**Experimental Design**](modules/12-experimental-design/) — Causal inference, confounders, A/B testing design, power & MDE, multiple testing | Day 91–100 | In Progress |
+| 13 | [**Forecasting**](modules/13-forecasting/) — Time series decomposition, moving average, Holt-Winters, ARIMA, accuracy metrics | Day 101–110 | In Progress |
+| 14 | [**Decision Science**](modules/14-decision-science/) — KPIs, North Star, cohort/funnel analysis, storytelling, executive presentation | Day 111–120 | In Progress |
 
 ### Part 2: Applied — Python + Real Data
 

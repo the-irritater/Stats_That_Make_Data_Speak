@@ -138,14 +138,16 @@ Every concept built on the one before. Statistics gave you the thinking. ML gave
 If you continue beyond Day 90:
 
 | Days | Module | Focus |
+| Days | Module | Focus |
 |------|--------|-------|
-| 91–120 | SQL for Data Analytics | Query, join, aggregate |
-| 121–150 | Python for Data Analysis | Pandas, NumPy at scale |
-| 151–180 | Dashboard Design | Power BI, Streamlit, storytelling |
-| 181–210 | End-to-End Projects | Full pipeline portfolio pieces |
-| 211–240 | Interview Case Studies | Analytical problem solving |
-| 241–300 | Statistics Behind ML Algorithms | Math of gradient descent, neural nets |
-| 301–365 | Real Industry Case Studies | Healthcare, finance, marketing |
+| 91–100 | Experimental Design & Causal Inference | A/B testing, MDE, power, and natural experiments |
+| 101–110 | Time Series & Forecasting | Trends, seasonality, decomposition, Holt-Winters, ARIMA |
+| 111–120 | Modern Analytics & Decision Science | KPIs, cohorts, funnels, dashboard storytelling |
+| 121–150 | Bayesian Statistics & Advanced Inference | Prior/posterior updates, MCMC, Bayesian A/B testing |
+| 151–180 | Multivariate Statistics | PCA, Factor Analysis, MANOVA, Structural Equation Modeling (SEM) |
+| 181–210 | Statistical Learning | Regularization, ensembles, feature selection, explainability |
+| 211–240 | Advanced Machine Learning | XGBoost, LightGBM, SHAP, Optuna, Calibration |
+| 241–365 | Capstone Projects & Portfolio | Industry case studies and end-to-end portfolio projects |
 
 ---
 
@@ -157,4 +159,4 @@ If you continue beyond Day 90:
 
 ---
 
-[← Day 89: Model Evaluation Metrics](day-89-evaluation-metrics.md) · [Back to Module 11](README.md)
+[← Day 89: Model Evaluation Metrics](day-89-evaluation-metrics.md) · [Next: Day 91 – Correlation vs Causation →](../12-experimental-design/day-91-correlation-vs-causation.md)

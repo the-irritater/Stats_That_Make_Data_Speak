@@ -44,4 +44,4 @@ This module teaches you to think in ML terms while keeping your statistical rigo
 
 ---
 
-[← Module 10: Predictive Statistics & Regression](../10-predictive-stats/) · [Back to Main](../../README.md)
+[← Module 10: Predictive Statistics & Regression](../10-predictive-stats/) · [Next: Module 12 – Experimental Design & Causal Inference →](../12-experimental-design/)
